@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "api-flowercloud.com",
+	    "robertsspaceindustries.com"
+      ],
+      "domain_keyword": [
+        "missav",
+	    "vivo50",
+	    "mempool"
+      ]
+    }
+  ]
+}
