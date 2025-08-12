@@ -1,17 +1,18 @@
 {
-  "version": 1,
+  "version": 2,
   "rules": [
     {
       "domain_suffix": [
         "ckpool.org",
         "public-pool.io",
-	"btc.viabtc.io"
+	    "btc.viabtc.io"
       ],
       "domain_keyword": [
         "ckpool",
-	"viabtc",
-	"public-pool"
+	    "viabtc",
+	    "public-pool"
       ]
     }
   ]
 }
+
